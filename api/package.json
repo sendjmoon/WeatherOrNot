@@ -18,6 +18,7 @@
   "author": "James Moon",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
   }
 }
