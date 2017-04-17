@@ -17,7 +17,5 @@ app.use(morgan('dev'));
 //express routes
 app.use('/api', forecastRouter);
 
-//express error handling
-
 //start server
 app.listen(PORT, () => console.log('server is listening on PORT: ' + PORT));
